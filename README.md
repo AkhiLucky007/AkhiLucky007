@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AkhiLucky007
 - 👀 I’m interested in learning new things, implementing the things I learnt asap.
 - 🌱 I’m currently learning C++, Full Stack Dev., Java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on simple open-source projects.
+- 📫 How to reach me : Email- akhileshk14354@gmail.com.
 - 😄 Pronouns: He, him, his.
 - ⚡ Fun fact: ...
 
